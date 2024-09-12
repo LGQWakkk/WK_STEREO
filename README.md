@@ -17,7 +17,7 @@
 
 初始界面如下：
 
-![image-20240912110457399]([WK_STEREO/readme_image/img1.png at main · LGQWakkk/WK_STEREO (github.com)](https://github.com/LGQWakkk/WK_STEREO/blob/main/readme_image/img1.png))
+![image-20240912110457399](readme_image/img1.png)
 
 ### 初始设置
 
@@ -39,7 +39,7 @@ IP一般就是电脑无线网卡此时的IP地址
 
 ### 相机外参校准
 
-![image-20240912110957571]([WK_STEREO/readme_image/img1.png at main · LGQWakkk/WK_STEREO (github.com)](https://github.com/LGQWakkk/WK_STEREO/blob/main/readme_image/img2.png))
+![image-20240912110957571](readme_image/img2.png)
 
 PS:Start Auto Calibration现在不能使用(施工ing...)
 
